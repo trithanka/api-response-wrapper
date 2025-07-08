@@ -30,7 +30,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Trithanka/api-response-wrapper.git"
+    "url": "git+https://github.com/Trithanka/api-response-wrapper.git"
   },
   "bugs": {
     "url": "https://github.com/Trithanka/api-response-wrapper/issues"
