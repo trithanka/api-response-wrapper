@@ -1,6 +1,6 @@
 {
   "name": "api-response-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight, flexible API response handler for Express and services.",
   "main": "src/index.js",
   "scripts": {
